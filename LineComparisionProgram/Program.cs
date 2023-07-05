@@ -10,7 +10,7 @@ namespace LineComparisionProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Line Comaprision Problem");
+          //  Console.WriteLine("Welcome to the Line Comaprision Problem");
             LineComparision lineComparision = new LineComparision();
             lineComparision.DisplayResult();
             Console.ReadLine();
